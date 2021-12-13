@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nablum
-- 👀 I’m interested in music and hardware & software stuff
+- 👀 I’m interested in music, hardware & software stuff
 - 🌱 I’m currently learning Electronics Engineering / Embedded Systems / Back-end & Front-end Programming
 - 🧑‍🔬 I could be usefull in C / C++ / Java / Python projects
 - 💞️ I’m looking to collaborate on Fun or Smart projects related to music or environment
