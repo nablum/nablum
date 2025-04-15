@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Electronics Engineering / Embedded Systems / Back-end & Front-end Programming
 - 🧑‍🔬 I could be usefull in C / C++ / Java / Python projects
 - 💞️ I’m looking to collaborate on Fun or Smart projects related to music or environment
-- 📫 How to reach me hugo.besnard.pro@gmail.com
 
 ![Alt Text](https://media.giphy.com/media/dJHeg7s9WflUxV0x52/giphy-downsized-large.gif)
 
